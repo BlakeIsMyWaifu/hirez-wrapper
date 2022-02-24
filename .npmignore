@@ -1,0 +1,7 @@
+.git/
+node_modules/
+src/
+tests/
+.gitignore
+.vscode/
+npm-debug.log
